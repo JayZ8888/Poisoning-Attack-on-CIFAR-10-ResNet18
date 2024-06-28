@@ -33,7 +33,7 @@ This project demonstrates a poisoning attack on a CIFAR-10 classifier by injecti
 1. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
-
+   Please download the appropriate version of torch for your computer from (https://pytorch.org/).
 2. **Run the code:**
    - Run each code block in the "Program.ipynb" in order.
 
